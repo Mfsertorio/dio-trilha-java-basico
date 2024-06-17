@@ -1,5 +1,9 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        int num = 5, count = 1;
+        do {
+            num += count;
+            System.out.println(num);
+        } while (count <= 3);
     }
 }
