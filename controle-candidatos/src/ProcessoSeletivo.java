@@ -1,4 +1,4 @@
-public class App {
+public class ProcessoSeletivo {
     public static void main(String[] args) throws Exception {
         analisarCandidato (1900.0);
         analisarCandidato (2200.0);
